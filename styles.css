@@ -13,6 +13,7 @@ p {
   line-height: 10px;
   background: url(3333.jpg);
   background-attachment: fixed;
+  background-size: 100%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: rgba(255, 255, 255, 0.05);
 }
