@@ -5,13 +5,14 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
+  color: #fff;
   background: #000;
 }
 
 p {
   font-size: 30%;
   line-height: 5px;
-  background: url(11.jpg);
+  background: url(1.jpg);
   background-attachment: fixed;
   background-size: 100%;
   -webkit-background-clip: text;
