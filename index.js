@@ -1,4 +1,4 @@
-alert(screen.width);
+alert(screen.width + " " + screen.height);
 function change(){
   var num = Math.floor(Math.random()*5)+1;  // number of images stored
   document.querySelector(".para").style.background= "url("+ num +".jpg)";
